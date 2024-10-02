@@ -25,23 +25,6 @@
 
 
 # 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zeroMAN555&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroMAN555&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroMAN555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-    </td>
-  </tr>
-</table>
-
+![](https://github-readme-stats.vercel.app/api?username=zeroMAN555&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zeroMAN555&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroMAN555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
