@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫:
 😄 Junior Programmer<br>🖥️ Interested in Cyber Security
 
 
-# 💻 Tech Stack:
+# 💻 Knowledge & Skills:
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000)
 ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000)
 ![Wireshark](https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000)
